@@ -1,6 +1,8 @@
 AngularJS HTML5 Fullscreen 
 =======
 
+[![Join the chat at https://gitter.im/francesco-strazzullo/angular-fullscreen](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/francesco-strazzullo/angular-fullscreen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An AngularJS service and a directive to quickly use the HTML5 fullscreen API and set the fullscreen to the document or to a specific element.
 
 ## Example
